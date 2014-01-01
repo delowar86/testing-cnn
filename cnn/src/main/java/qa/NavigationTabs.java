@@ -17,7 +17,7 @@ public class NavigationTabs extends CnnBase{
 
     public  void goToWorld(){
         clickByCss(world);
-        System.out.print("a");
+        System.out.print(" this is babu ");
     }
     public void goToPolitics(){
         clickByCss(politics);
